@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Epgor
-- 👀 I’m interested in Python, FullStack Web Development (.NET + Angular/React)
+- 👀 I’m interested in 
+-     Python 
+- :office: I work as a
+-     FullStack Web Development (.NET + Angular/React)
 - 🌱 I’m currently learning
--     Some advanced .NET concepts
+-     .NET commercial concepts
 -     DevOps elements
 -     CI/CD pipelines
 - 💞️ I’m a proud  a corporate rat
