@@ -7,7 +7,7 @@
 -     .NET commercial concepts
 -     DevOps elements
 -     CI/CD pipelines
-- 💞️ I’m a proud  a corporate rat
+- 💞️ I’m a proud  a corporate rat :trollface:
 - 📫 How to reach me 
       Email: hajsberg@gmail.com
 
