@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Epgor
+- 👋 Hi, I’m @Epgor :leo:
 - 👀 I’m interested in 
 -     Python 
 - :office: I work as a
--     FullStack Web Development (.NET + Angular/React)
+-     Full Stack Web Developer (.NET + Angular/React)
 - 🌱 I’m currently learning
 -     .NET commercial concepts
 -     DevOps elements
