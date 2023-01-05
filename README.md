@@ -9,7 +9,7 @@
 -     CI/CD pipelines
 - 💞️ I’m a proud  a corporate rat :trollface:
 - 📫 How to reach me 
-      Email: hajsberg@gmail.com
+      Email
 
 <!---
 Epgor/Epgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
