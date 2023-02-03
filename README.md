@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @Epgor :leo:
-- 👀 I’m interested in 
+👋 Hi, I’m @Epgor :leo:
+👀 I’m interested in 
 -     Python 
-- :office: I work as a
+:office: I work as a
 -     Full Stack Software Engineer (.NET + Angular/React)
-- 🌱 I’m currently learning
+🌱 I’m currently learning
 -     .NET 
 -     GitActions
-- 💞️ I’m a proud  a corporate rat :trollface:
-- 📫 How to reach me 
-      Email: bwi@scalepoint.com
+💞️ Lazy one
+📫 How to reach me 
+-     Email: bwi@scalepoint.com
 
 <!---
 Epgor/Epgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
