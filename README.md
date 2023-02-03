@@ -6,10 +6,9 @@
 🌱 I’m currently learning
 -     .NET 
 -     GitActions
-💞️ Lazy one
-
+:mortar_board: Finishing some Master's degree for no particular reason
 > 📫 How to reach me 
--     Email: bwi@scalepoint.com
+> -     Email: bwi@scalepoint.com
 
 <!---
 Epgor/Epgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
