@@ -7,6 +7,7 @@
 -     .NET 
 -     GitActions
 💞️ Lazy one
+
 📫 How to reach me 
 -     Email: bwi@scalepoint.com
 
