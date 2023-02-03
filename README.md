@@ -8,7 +8,7 @@
 -     GitActions
 💞️ Lazy one
 
-📫 How to reach me 
+> 📫 How to reach me 
 -     Email: bwi@scalepoint.com
 
 <!---
