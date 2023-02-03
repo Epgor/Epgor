@@ -2,14 +2,13 @@
 - 👀 I’m interested in 
 -     Python 
 - :office: I work as a
--     Full Stack Web Developer (.NET + Angular/React)
+-     Full Stack Software Engineer (.NET + Angular/React)
 - 🌱 I’m currently learning
--     .NET commercial concepts
--     DevOps elements
--     CI/CD pipelines
+-     .NET 
+-     GitActions
 - 💞️ I’m a proud  a corporate rat :trollface:
 - 📫 How to reach me 
-      Email
+      Email: bwi@scalepoint.com
 
 <!---
 Epgor/Epgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
