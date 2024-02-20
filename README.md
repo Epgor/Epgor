@@ -40,6 +40,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-FFFFFF?style=for-the-badge&logo=docker&logoColor=#2496ED" /> 
     </p>
     <p align='center'>
 	🔭 Also know
@@ -56,19 +57,16 @@
     </p>
 </p>
    <p align="center">
-   <p align="center"> :office: I work as a </p>
-   <p align="center"> Full Stack Software Engineer (.NET + Angular/React + Python) </p>
-   <p align="center"> 🌱 I’m currently learning </p>
+   <p align="center"> :office: Software Engineer </p>
+   <p align="center"> 🌱 Learning </p>
    <div align="center">
-      <p> 
-	GitHub Actions 
-      </p>
       <p>
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
+	      <img src="https://img.shields.io/badge/K8S-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=#326CE5" />
+  	    <img src="https://img.shields.io/badge/Helm-4D4D4D?style=for-the-badge&logo=helm&logoColor=#0F1689" /> 
       </p>
    </div>
    <p align="center"> 
-      :mortar_board: Finishing some Master's degree 
+      :mortar_board: Master's degree in Information Technology
    </p>
 
    <p align='center'>
