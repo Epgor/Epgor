@@ -63,10 +63,9 @@
    <p align="center"> :office: Software Engineer </p>
    <p align="center"> 🌱 Learning </p>
    <div align="center">
-      <p>
-	 <img src="https://img.shields.io/badge/K8S-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=#326CE5" />
-  	 <img src="https://img.shields.io/badge/Helm-4D4D4D?style=for-the-badge&logo=helm&logoColor=#0F1689" />
+      <p> 
 	 <img src="https://img.shields.io/badge/About-Engineering-CE3DF3?style=for-the-badge&logo=daily.dev" />
+	 <img src="https://img.shields.io/badge/K8S-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=#326CE5" />
       </p>
    </div>
    <p align="center"> 
