@@ -7,12 +7,12 @@
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-  <img src=https://github-profile-trophy.vercel.app/?username=epgor&theme=onedark ></a>
+  <img src=https://github-profile-trophy.vercel.app/?username=epgor&theme=onedark&title=-Reviews,-PullRequest,-Issues,-Stars,-Followers&row=1&column=5 ></a>
 </p>
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=epgor&show_icons=true&count_private=true&theme=onedark" width="350"></a>
+  <a href="#"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=epgor&layout=compact&theme=onedark&exclude_repo=PRiR ></a>
 </p>
 <p align='center'>
   💻 My workspace<br/><br/>
