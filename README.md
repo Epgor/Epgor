@@ -34,7 +34,6 @@
 	👀 Interested in
     </p>
     <p align='center'>
-	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -42,12 +41,13 @@
 	<img src="https://img.shields.io/badge/Github_Actions-4D4D4D?style=for-the-badge&logo=Github-Actions&logoColor=#2088FF" />
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/DOCKER-FFFFFF?style=for-the-badge&logo=docker&logoColor=#2496ED" /> 
-	<img src="https://img.shields.io/badge/Backstage-4D4D4D?style=for-the-badge&logo=backstage&logoColor=#2088FF" /> 
+	<img src="https://img.shields.io/badge/Backstage-4D4D4D?style=for-the-badge&logo=backstage&logoColor=#2088FF" />
     </p>
     <p align='center'>
 	🔭 Also know
     </p>
     <p align='center'>
+	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=#0078D4" />
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
