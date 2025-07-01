@@ -1,19 +1,36 @@
 <h1 align='center'>
   <p>👋 Hi, I’m Bartek :leo: </p>
 </h1>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/bartosz-wi%C5%9Bniewski-6580a7222">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bartosz-wi%C5%9Bniewski-6580a7222">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg" />
   </a>&nbsp;&nbsp;
 </p>
-<p align='center'>
-  <img src=https://github-profile-trophy.vercel.app/?username=epgor&theme=onedark&title=-Reviews,-PullRequest,-Issues,-Stars,-Followers&row=1&column=5 ></a>
-</p>
 
+<p align='center'>
+ <a href="https://www.credly.com/badges/b61106bd-999b-4a06-8e96-e831aad88ee2/public_url">
+   <img width="200" src=https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png />
+ </a>
+ <a href="https://www.credly.com/badges/e4184d46-43f4-4294-960d-c351f95f5b3e/public_url">
+   <img width="200" src=https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png />
+ </a>
+ <a href="https://www.credly.com/badges/8fc8e760-49ff-4a25-902a-60e9a4a60c7e/public_url">
+   <img width="200" src=https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png />
+ </a>
+ <a href="https://learn.microsoft.com/pl-pl/users/bartoszwiniewski-5029/credentials/dba25cfef6ba3425">
+   <img width="200" src=https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg />
+ </a>
+</p>
 
 <p align='center'>
   <a href="#"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=epgor&layout=compact&theme=onedark&exclude_repo=PRiR ></a>
 </p>
+
+<p align='center'>
+  <img src=https://github-readme-stats.vercel.app/api?username=epgor&theme=transparent&show_icons=true ></a>
+</p>
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
