@@ -23,13 +23,13 @@
  </a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=epgor&layout=compact&theme=onedark&exclude_repo=PRiR ></a>
 </p>
 
 <p align='center'>
   <img src=https://github-readme-stats.vercel.app/api?username=epgor&theme=transparent&show_icons=true ></a>
-</p>
+</p> -->
 
 <p align='center'>
   💻 My workspace<br/><br/>
