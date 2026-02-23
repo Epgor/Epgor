@@ -1,0 +1,27 @@
+name: Commiter
+
+on:
+  schedule: 
+    - cron: 0 */12 * * *
+  workflow_dispatch:
+jobs:
+  job:
+    runs-on: ubuntu-slim
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write today's date to foo
+        run: date > foo
+
+      - name: Print foo
+        run: cat foo
+  
+      - name: Commit and push
+        run: |
+           git config user.name "epgor"
+           git config user.email "epgor@users.noreply.github.com"
+           git add foo
+           git diff --cached --quiet || git commit -m "chore: update foo with today's date"
+           git push
